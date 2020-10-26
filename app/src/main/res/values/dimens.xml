@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dip</dimen>
+    <dimen name="header_height">100dip</dimen>
+    <dimen name="game_top_panel_height">100dip</dimen>
+    <dimen name="game_bottom_panel_height">100dip</dimen>
+    <dimen name="button_panel_bottom">70dip</dimen>
+    <dimen name="main_menu_item_margin_top">50dip</dimen>
+
+    <!-- header_height + game_top_panel_height -->
+    <dimen name="game_text_view_margin_top">200dip</dimen>
+</resources>

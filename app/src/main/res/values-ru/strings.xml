@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Правда или действие/Я никогда не</string>
+    <string name="choose_game">Выберите Игру</string>
+    <string name="not_internet">Проверьте соединение с интернетом</string>
+    <string name="gameNeverHaveIEver">Я никогда не</string>
+    <string name="gameTruthOrDare">Правда или действие</string>
+    <string name="toMainScreen">на главный экран</string>
+    <string name="next">далее</string>
+    <string name="truth">правда</string>
+    <string name="dare">действие</string>
+    <string name="startNeverIEver">нажмите "далее" чтобы начать игру</string>
+    <string name="startTruthOtDare">для продолжения игры выберите правда или действие</string>
+</resources>

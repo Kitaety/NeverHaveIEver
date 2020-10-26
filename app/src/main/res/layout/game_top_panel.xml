@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/game_top_panel_height"
+    android:layout_marginTop="@dimen/header_height"
+    android:orientation="horizontal"
+    android:gravity="left"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/title_game"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/game_top_panel_height"
+            android:textAllCaps="true"
+            android:gravity="left|center_vertical"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/toMainScreenBtn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/transparent"
+            android:drawableLeft="@drawable/arrows"
+            android:drawableTint="?attr/colorPrimary"
+            android:drawingCacheQuality="auto"
+            android:ellipsize="none"
+            android:fontFamily="@font/roboto"
+            android:gravity="left|center_vertical"
+            android:lineSpacingExtra="0sp"
+            android:padding="0dp"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:text="@string/toMainScreen" />
+    </LinearLayout>
+
+</LinearLayout>

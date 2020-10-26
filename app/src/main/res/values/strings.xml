@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ttuth or dare</string>
+
+    <string name="title_activity_main" translatable="false">MAIN</string>
+    <string name="title_first_word" translatable="false">club</string>
+    <string name="title_second_word" translatable="false">vteme</string>
+    <!-- <br/> <br> is used for line breaks -->
+    <string name="choose_game">choose<br />a game</string>
+    <string name="not_internet">check your internet connection</string>
+
+    <!-- game name/tittle game page -->
+    <string name="gameNeverHaveIEver">never have i ever</string>
+    <string name="gameTruthOrDare">truth or dare</string>
+
+    <!-- botton text -->
+    <string name="toMainScreen">to the main screen</string>
+    <string name="next">next</string>
+    <string name="truth">truth</string>
+    <string name="dare">dare</string>
+
+    <!-- start game -->
+    <string name="startNeverIEver">press "NEXT" to start game</string>
+    <string name="startTruthOtDare">press "truth" or "dare" to start game</string>
+</resources>
